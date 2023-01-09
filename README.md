@@ -12,3 +12,6 @@ Enter a partial phone number with unknown digits represented by 'x': 438xxx2208
 
 Wrote 680 phone numbers to 'phone_numbers.csv'.
 ```
+
+
+Inspired by the work of Martin Vigo and his phonerator tool https://www.martinvigo.com/tools/phonerator/
