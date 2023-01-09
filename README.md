@@ -5,7 +5,7 @@ Uses the (Canadian Numbering Administrator / Administrateur de la numérotation 
 
 Run the script, enter a partial phone number and replace any unknown digits with lowercase x. The script will generate a CSV including all the possible combinations of phone numbers.
 
-python ./script
+python ./phone_number_generator.py
 Enter a partial phone number with unknown digits represented by 'x': 438xxx2208
 Wrote 680 phone numbers to 'phone_numbers.csv'.
 
