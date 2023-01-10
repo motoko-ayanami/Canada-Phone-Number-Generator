@@ -3,7 +3,7 @@ Generates a list of valid phone numbers based on partial digits you provide
 
 Uses the (Canadian Numbering Administrator / Administrateur de la numérotation canadienne) to cut down on unused NXX numbers for the 514 and 438 area code.
 
-Run the script, enter a partial phone number and replace any unknown digits with lowercase x. The script will generate a CSV including all the possible combinations of phone numbers.
+Run the script, enter a partial phone number and replace any unknown digits with lowercase x. The script will generate a CSV with all the possible combinations of phone numbers.
 
 ```
 python ./phone_number_generator.py
